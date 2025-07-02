@@ -86,6 +86,10 @@ body {
     bottom: 0;
 }
 
+.container__imagem-robo{
+    width: 60%;
+}
+
 .container__informacoes {
     flex: 1;
     padding: 20px;
